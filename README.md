@@ -4,6 +4,18 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1769531592215-Generated%20Image%20January%2027%2C%202026%20-%2011_32AM.jpeg?alt=media&token=03000c23-6d8c-4c28-9ade-289fc7730dc9" alt="Video Scraping APIs" style="max-width: 100%; height: auto;">
 
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
 **The most comprehensive collection of video scraping APIs on GitHub** - 979 ready-to-use APIs for extracting video data, downloading videos, scraping metadata, and more.
 
 ---
