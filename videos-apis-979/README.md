@@ -6,6 +6,12 @@
 
 | API Name | Description |
 |----------|-------------|
+| [✨ YouTube Video Details API](https://apimesa.com) | Get full details for any YouTube video — title, channel, views, likes, comments, publish date, duration, and thumbnails — from a video ID or URL. Responses are cached for 24 hours. |
+| [✨ YouTube Channel Details API](https://apimesa.com) | Get full details for any YouTube channel — name, handle, subscribers, total views, video count, avatar, and description — from a channel ID, @handle, or URL. Responses are cached for 24 hours. |
+| [✨ YouTube Playlist Details API](https://apimesa.com) | Get a YouTube playlist's metadata plus its videos (25 per page with pagination) — title, channel, item count, and per-video details. Pass page_token to walk large playlists. Responses are cached for … |
+| [✨ YouTube Video Details](https://apimesa.com) | Resolve public YouTube video titles, channels, thumbnails, provider metadata, and canonical video IDs through the public oEmbed interface. |
+| [✨ TikTok Video Details](https://apimesa.com) | Resolve public TikTok video captions, creators, thumbnails, and embeddable metadata through the public oEmbed interface. |
+| [✨ Social Video Info](https://apimesa.com) | Get the real title, author, and thumbnail for a YouTube, TikTok, Instagram, or Vimeo video via official oEmbed and Open Graph data. |
 | [▶️ YouTube Channel Comment Collector](https://apify.com/n.nobar/youtube-channel-comment-collector?fpr=p2hrc6) | Collect recent comments, authors, and likes from the latest videos on any public YouTube channel. Specify the number of latest videos to check (e.g., last 5, 10, or 20). Get comments in bulk from an... |
 | [⚡ Instagram Video Scraper - Lite 🔬](https://apify.com/scrapearchitect/instagram-video-scraper-lite?fpr=p2hrc6) | 📊 Scrape Instagram video metadata: titles 📝likes 💬❤️ formats 🧰 dates 📅! No downloads 🚫📥 Bulk URLs 🔄 residential proxies 🛡️ For marketers 📈 researchers 🔬 Fast ⚡15+ fields! ⚡Instagram Video... |
 | [⚡Facebook Video Downloader 📥](https://apify.com/scrapearchitect/facebook-video-downloader?fpr=p2hrc6) | 🎥 Extract Metadata + HD Downloads  📋 Extract titles 📌 AND download videos/audio 🎵, Authors 👤, Durations ⏱️, Thumbnails 🌄! Bulk URLs 📥 For Analysts 📈, SEOs 🔍, Researchers 🧪. Secure 🛡️, Fast... |
